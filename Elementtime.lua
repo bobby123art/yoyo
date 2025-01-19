@@ -36,4 +36,5 @@ _G.WantedRarities = {"Heavenly"} -- Only want "Heavenly" rarity
    - Time
 
 --]]
-https://raw.githubusercontent.com/bobby123art/yoyo/refs/heads/main/Elementtime.lua
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/bobby123art/yoyo/refs/heads/main/Elementtime.lua'),true))()
+
